@@ -1,0 +1,16 @@
+{
+  "name": "mini-os-js",
+  "version": "1.0.0",
+  "description": "Mini kernel cooperativo em JavaScript para estudo.",
+  "main": "src/scheduler.js",
+  "scripts": {
+    "demo": "node examples/demo.js"
+  },
+  "keywords": [
+    "scheduler",
+    "generator",
+    "kernel",
+    "educational"
+  ],
+  "license": "MIT"
+}
